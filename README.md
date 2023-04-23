@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-MIT-brightgreen) &nbsp; ![Build](https://img.shields.io/github/actions/workflow/status/mike1000000000/SlackMultiChannelSend/snyk?branch=main)
+![License](https://img.shields.io/badge/license-MIT-brightgreen) &nbsp; ![Known Vulnerabilities](https://snyk.io/test/github/mike1000000000/SlackMultiChannelSend/badge.svg) &nbsp; ![Lint](https://img.shields.io/github/actions/workflow/status/mike1000000000/SlackMultiChannelSend/php-lint.yml)
 
 # Slack Multichannel Send
 
